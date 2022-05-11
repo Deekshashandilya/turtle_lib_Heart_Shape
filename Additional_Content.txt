@@ -1,0 +1,5 @@
+I am trying to learn Python and creating such small project (by spending too much time)
+helps me to be engaged with programming.Because first we need to be with that specific thing then only
+we will love it.
+
+If you want do changes you can change the angle and steps as well.
